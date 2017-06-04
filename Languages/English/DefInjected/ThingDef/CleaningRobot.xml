@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CleaningRobot_RechargeStation.label>Cleaner Base Station</CleaningRobot_RechargeStation.label>
+	<CleaningRobot_RechargeStation.description>This station comes equipped with a specialized robot.</CleaningRobot_RechargeStation.description>
+
+	<CleaningRobot.description>This is a cleaning robot. It tidies up around your colony so you don't have to!</CleaningRobot.description>
+
+	<CleaningRobot_disabled.label>CleaningBot (disabled)</CleaningRobot_disabled.label>
+	<CleaningRobot_disabled.description>This is the sad end of a bot. It's no longer useful and needs heavy repairs or dismantling.</CleaningRobot_disabled.description>
+
+</LanguageData>
